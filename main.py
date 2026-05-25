@@ -25,7 +25,7 @@ POSSIBILI_PAROLE = [
 MISTERIOUS_WORD = random.choice(POSSIBILI_PAROLE)
 TOTALE_TENTATIVI = len(MISTERIOUS_WORD)
 
-print("*** GUEST THE WORD ***")
+print("*** GUEST THE WORD 🫣***")
 print("Benvenuto! In questo gioco devi indovinare una parola misteriosa.")
 print(f"Hai {TOTALE_TENTATIVI} tentativi. Per ogni tentivo puoi chiedere una lettera OPPURE tentare di indovinare la parola.")
 

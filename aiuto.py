@@ -1,6 +1,5 @@
 import time
 
-
 def mostra_lettere_trovate(parola_misteriosa, gruppo_di_lettere_richieste: list):
     
     # Iniziamo con una stringa vuota
